@@ -62,5 +62,5 @@ void loop() {
     Serial.print("Wysłano wilgotność: ");
     Serial.println(humStr);
 
-    delay(5000);
+    delay(2000);
 }
